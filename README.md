@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi I'm Adam Rosołowski!
 
-<!--
-**rosolowski/rosolowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a web developer exploring:
+- game dev
+- algorithms
+- blockchains and web3 (mainly Ethereum)
+- ai
+- workflow improvement
+- making this profile page better
 
-Here are some ideas to get you started:
+![skull-skullgif](https://github.com/user-attachments/assets/ade152b5-9a1f-4ca4-8842-09b0f686d5a8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently working on:
+- personal page, some game dev things
+
+previous attempts:
+- https://github.com/rr-adam/void-dungeon 
+- https://github.com/rr-adam/cyber-rogue
+- https://github.com/rr-adam/mind-rogue
