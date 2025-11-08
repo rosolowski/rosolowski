@@ -8,12 +8,12 @@
 - workflow improvement
 - making this profile page better
 
-![skull-skullgif](https://github.com/user-attachments/assets/ade152b5-9a1f-4ca4-8842-09b0f686d5a8)
+![skull-skullgif](https://github.com/user-attachments/assets/6f3de1d7-d1f9-4243-9ed4-775903ba1245)
 
 #### Currently working on:
 - personal page, some game dev things
 
-previous attempts:
+some browser based roguelikes I made:
 - https://github.com/rr-adam/void-dungeon 
 - https://github.com/rr-adam/cyber-rogue
 - https://github.com/rr-adam/mind-rogue
